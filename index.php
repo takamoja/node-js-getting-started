@@ -19,5 +19,5 @@ function require_auth() {
 
 require_auth();
 
-header('Location: /index.html');
+header('Location: /');
 ?>
