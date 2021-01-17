@@ -1,4 +1,4 @@
-# node-js-getting-started auto deploy test
+# node-js-getting-started automatic deploy test
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
